@@ -12,5 +12,7 @@ pytest
 pandas
 pyerfa
 astroquery
+sphinx>=6
+docutils
 rebound
 dynesty
